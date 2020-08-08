@@ -17,7 +17,7 @@ console.log('You ran the command: ' + args._[0]);
 
 console.log(
     chalk.bold.yellow(
-      figlet.textSync('Do-it', { horizontalLayout: 'full' })
+      figlet.textSync('Do-it !!!', { horizontalLayout: 'full' })
     )
   );
 
